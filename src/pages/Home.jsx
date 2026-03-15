@@ -31,9 +31,7 @@ function Home(){
             <div key={place.id} style={styles.card}>
 
               <img
-                src={`https://app-du-lich-2.onrender.com/static/image/${place.thumbnail}`} 
-                alt={place.name} 
-                style={styles.image}
+                src={`https://app-du-lich-3.onrender.com/static/image/${place.thumbnail}`} alt={place.name} style={styles.image}
               />
 
               <h3>{place.name}</h3>

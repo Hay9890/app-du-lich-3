@@ -40,9 +40,7 @@ return(
           />
 
           <h3>{place.name}</h3>
-
           <p>{place.city}</p>
-
           <p>{place.address}</p>
 
         </div>
